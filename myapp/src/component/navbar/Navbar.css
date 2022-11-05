@@ -1,0 +1,38 @@
+ul{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+.home{
+    padding: 10px;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid black;   
+
+}
+.create{
+    padding: 10px;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid black; 
+       
+}
+
+nav{
+    
+    justify-content: space-evenly;
+
+}
+
+img{
+    height: 45px;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.search-bar{
+    border: 1px solid black; 
+}
